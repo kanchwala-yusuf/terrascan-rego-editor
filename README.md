@@ -1,4 +1,4 @@
-# Terrascan Rego Editor
+![Terrascan Rego Editor](assets/terrascan-rego-editor-logo.png)
 
 Create and test Rego policies for Terrascan in Visual Studio Code.
 
